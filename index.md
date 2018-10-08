@@ -62,15 +62,19 @@ are a reflection of that.
 
 ### Can I build *Open Source Software*?
 
-More often than not, the term "Open Source Software" doesn't really mean 
-anything. It has been used to describe a variety of terms under which 
-software is distributed. If what you mean by "Open Source Software" is 
-exactly what is spelt out in the "Open Source Definition", then sure - 
-please go ahead and build "open source software".
+**"Open Source"** still misses the point of Free Software. Please
+consider if you really want to use the term "open source" and if,
+instead, you want to focus on absorbing, providing and offering software
+freedom as a business purpose.
 
-However, if by using the term "open source software" to refer to one of 
-the hundred-odd unfair approximations of that definition, then we are not 
-even sure if we are talking about the same thing.
+Further reading:
+
+  * Richard Stallman's essay: [Why Open Source misses the point of Free
+  Software](https://www.gnu.org/philosophy/open-source-misses-the-point.html)
+
+  * A smaller analysis on the same topic: [Why Open Source *still*
+  misses the point of Free
+  Software](https://abhas.io/open-source-still-misses-the-point/)
 
 ----------
 

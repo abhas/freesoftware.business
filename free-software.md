@@ -11,4 +11,5 @@ layout: home
   1. **Freedom 3**: Freedom to make changes to the program and 
      resdistribute this modified version.
 
+Further reading: [https://www.gnu.org/philosophy/free-sw.en.html](https://www.gnu.org/philosophy/free-sw.en.html)
 

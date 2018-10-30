@@ -21,7 +21,7 @@ Software is about and why its important.*
 ### What is a Free Software Business?
 
 A Free Software Business (FSB) is a business that respects its users' 
-freedom. The [freedoms that users deserve](/free-software/) are unalienable. A FSB does not 
+freedom. The [freedoms that users deserve](/free-software.html) are unalienable. A FSB does not 
 compromise on these freedoms when it chooses to do business with its 
 users. A FSB is an ethical business that uses software freedom to 
 empower its users, instead.
